@@ -15,17 +15,20 @@ Problem Statement:-  Nowadays people suffer from stress so Music is one of the b
 so we introduce our music player studio in which you can listen your favourite genre and favourite songs.Meanwhile, this software canplay, pause and select songs with latest button and next button according to sets requirement as well as set up songs.
 
 Requirements:- 
+
 Hardware Interfaces:
 1. Pentium(R) 4 CPU 2.26 GHz, 128 MB RAM .
 2.Screen resolution of at least 800 x 600 required for proper and
 complete viewing of screens. Higher resolution would not be a
 problem.
+
 Software Interfaces:
 1. Any window-based operating system (Windows 95/98/2000/XP/NT) §
 2. sublime text
 
 Technologies Used:-
 HTML,CSS,bootstrap,animation and flex box
+
 Project Description:-
 We made a project "music player studio" in which  first is carousel  section (main centre part of the music player studio)and then we have a aside section in which we add our favourites songs by our choice with the help of clicking the favourities icon. Then there is a latest release section in which we mention all the recently released songs. then there is a popular artist section in which all the artist who give the hits songs are shown .then there is a genre section in which we can select our genre like rock,sad,love etc. then there are two more sections of latest songs one is  hindi released songs in which all the hindi songs shown which are recently released and one is latest english released songs in which all the english songs shown which are recently released.and in header section we have a favourities button by clicking on that button we  will be redirected to the page named as "Single playlist page".
 
